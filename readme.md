@@ -1,16 +1,3 @@
-<h2 align="center">
-	<img alt="Bikcraft" src="./screenshot.png" width="500px" />
-</h2>
-
-<p align="center">
-	<a href="mailto:bortolettohenrique@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&labelColor=white">
-	</a>
-	<a href="https://www.linkedin.com/in/henriquebortoletto/" target="_blank">
-		<img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
-	</a>
-</p>
-
 ## :rocket: Sobre
 
 Projeto feito para entender melhor como funciona os campos nativos do wordpress, com a junção do plugin [cmb2](https://github.com/CMB2/CMB2/wiki/Field-Types) tudo via código.
