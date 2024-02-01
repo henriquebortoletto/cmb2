@@ -95,5 +95,3 @@ Exemplo de loop nos campos cmb2
 ```
 
 ---
-
-by [Henrique Bortoletto](https://github.com.br) :wave:
