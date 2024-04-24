@@ -1,14 +1,14 @@
-## :rocket: Sobre
+## :rocket: About
 
-Projeto feito para entender melhor como funciona os campos nativos do wordpress, com a junção do plugin [cmb2](https://github.com/CMB2/CMB2/wiki/Field-Types) tudo via código.
+Project designed to better understand how native WordPress fields work, with the addition of the plugin [cmb2](https://github.com/CMB2/CMB2/wiki/Field-Types).
 
-Exemplos nativos do worpdress.
+Examples:
 
 ```php
 echo get_post_meta( get_the_ID(), 'chave', true );
 ```
 
-Exemplos de campos simples com cmb2.
+Examples the samples fields with cmb2.
 
 ```php
 function cmb2_home() {
@@ -38,7 +38,7 @@ function cmb2_home() {
 add_action( 'cmb2_admin_init', 'cmb2_home' );
 ```
 
-Exemplo de repetidores de campos com cmb2.
+Example the loops fields with cmb2.
 
 ```php
 function cmb2_home() {
@@ -79,7 +79,7 @@ function cmb2_home() {
 }
 ```
 
-Exemplo de loop nos campos cmb2
+Example the loops fields with cmb2.
 
 ```php
 <?php $campos = get_field( 'campo' ); ?>
